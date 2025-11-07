@@ -2,7 +2,7 @@
   "name": "BELAL BOTX666",
   "version": "10.1.1",
   "description": "Made By Belal",
-  "main": "Main.js",
+  "main": "চাঁদের পাহাড়.js",
   "engines": {
     "node": "20.x",
     "npm": ">=10.0.0 <13.0.0"
